@@ -8,3 +8,4 @@ docker.io/pytorch/pytorch:2.0.1-cuda11.7-cudnn8-runtime@sha256:82e0d379a5dedd630
 ghcr.io/open-webui/open-webui:main
 netdata/netdata
 openp2pcn/openp2p-client
+minio/minio:RELEASE.2021-04-22T15-44-28Z.hotfix.56647434e
