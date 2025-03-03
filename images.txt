@@ -12,6 +12,7 @@ minio/minio:RELEASE.2021-04-22T15-44-28Z.hotfix.56647434e
 linuxserver/netbootxyz
 jpillora/dnsmasq
 httpd:alpine
+ubuntu:20.04
 
 
 #支持指定架构
