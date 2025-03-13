@@ -44,5 +44,7 @@ downloads.unstructured.io/unstructured-io/unstructured-api:latest
 
 rayproject/ray:latest
 
+rayproject/ray:2.22.0-gpu
+
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
